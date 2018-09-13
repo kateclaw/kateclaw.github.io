@@ -1,0 +1,35 @@
+.education,
+.experience,
+.extras {
+    padding: 50px;
+    background-color: #C0D6E4;
+    margin-top: 20px;
+}
+
+.holder {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: space-between;
+    padding-bottom: 20px;
+}
+
+.title {
+    width: 30%;
+}
+
+.position {
+    width: 60%;
+}
+
+.title p {
+    margin: 0px;
+}
+
+.extras {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: space-between;
+    padding-bottom: 20px;
+}
