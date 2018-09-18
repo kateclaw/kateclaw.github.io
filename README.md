@@ -3,14 +3,16 @@ COMP 20
 Assignment 1
 README
 
-Identify what aspects of the work have been correctly implemented and what have not:
+Correctly implemented:
 
-- all aspects of the work have been correctly implemented.
+- Resume page: full name, education, professional experience, skills, and activities.
+- Bio page: short biography of myself
+- Index page: personal homepage acessed by http://kateclaw.github.io, containing name, photo, link to resume and bio. Also redirects to website on github from tufts cs page.
 
-Identify anyone with whom you have collaborated or discussed the assignment.
+Collaborators:
 
-- I didn't collaborate or discuss the assignment with anyone.
+- None.
 
-Say approximately how many hours you have spent completing the assignment.
+Approximate time spent:
 
 - 2 hours

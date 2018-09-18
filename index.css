@@ -3,10 +3,42 @@
 body {
     margin: 50px;
     font-family: 'Raleway', sans-serif;
+}
 
+.welcome {
+    background-color: #d6ebf2;
+    padding: 50px;
+    padding-bottom: 20px;
+    /* margin-bottom: 20px; */
+}
+
+.container {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-content: center;
+
+    background-color: #d6ebf2;
+    padding: 50px;
 }
 
 .header {
     background-color: #d6ebf2;
-    padding: 50px;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+}
+
+.header h3 {
+    margin-right: 50px;
+    margin-top: 0px;
+}
+
+.header a {
+    color: black;
+    text-decoration: none;
+}
+
+.header a:hover {
+    text-decoration: underline;
 }
