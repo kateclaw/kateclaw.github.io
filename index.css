@@ -8,8 +8,6 @@ body {
 .welcome {
     background-color: #d6ebf2;
     padding: 50px;
-    padding-bottom: 20px;
-    /* margin-bottom: 20px; */
 }
 
 .welcome h3 {
@@ -19,13 +17,10 @@ body {
 .container {
     display: flex;
     flex-direction: row;
-    /* justify-content: space-between;
-    align-content: center; */
+    flex-wrap: wrap;
 
     background-color: #d6ebf2;
     padding: 50px;
-    /* padding-bottom: 0; */
-
 }
 
 .nav {
@@ -50,16 +45,15 @@ body {
     text-decoration: underline;
 }
 
-.image {
-    /* display: flex; */
-    /* justify-content: center; */
-    /* background-color: #d6ebf2;
-    margin-top: 20px;
-    padding: 50px; */
-}
-
 img {
     max-width: 300px;
     height: 300px;
-    /* margin: auto; */
+    padding-right: 50px;
+}
+
+.bio-body {
+    background-color: #C0D6E4;
+    padding: 50px;
+    margin-top: 20px;
+    font-size: 16px;
 }
